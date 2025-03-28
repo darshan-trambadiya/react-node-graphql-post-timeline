@@ -1,0 +1,23 @@
+:root {
+  /* --primary: #3b0062; */
+  --primary: #292966;
+  --secondary: #fab83f;
+  --white: #ffffff;
+  --hover-primary: #3e3e75;
+  --btn-flat: #a9a9c2;
+  --btn-raised: #fbc766;
+  --btn-danger: #a30000;
+  --btn-success: #00b359;
+  --hover-btn-success: #00a151;
+  --hover-btn-danger: #c00000;
+  --error-bg: #ffc2c2;
+  --error-border: red;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}

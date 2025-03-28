@@ -1,0 +1,33 @@
+{
+  "name": "react-graphql-post-timeline",
+  "version": "1.0.0",
+  "description": "Complete React GraphQl Post Timeline App",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darshan-trambadiya/react-node-graphql-post-timeline.git"
+  },
+  "author": "Darshan Trambadiya",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.4.0",
+    "react-scripts": "^5.0.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
